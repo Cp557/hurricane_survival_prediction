@@ -6,7 +6,7 @@ This repository contains the code and documentation for a machine learning proje
 
 1. `hurricane_survival_classification.ipynb`: Jupyter notebook containing the main code for data preprocessing, model training, and evaluation.
 2. `Final Report.pdf`: Detailed report of the project, including methodology, results, and discussions.
-3. 'World_MO_Hurricane_Survival.csv
+3. `World_MO_Hurricane_Survival.csv`: The dataset used for this project, containing information about individuals and their survival status during hurricanes.
 
 ## Key Features
 
