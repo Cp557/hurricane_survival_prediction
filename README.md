@@ -15,27 +15,6 @@ This repository contains the code and documentation for a machine learning proje
 - Model evaluation using accuracy metrics and ROC curves
 - Visualization of results
 
-## Requirements
-
-- Python 3.x
-- Libraries: numpy, pandas, scikit-learn, xgboost, tensorflow, matplotlib
-
-## Usage
-
-1. Clone the repository
-2. Install the required libraries
-3. Run the Jupyter notebook `hurricane_survival_classification.ipynb`
-
 ## Results
 
 The models achieved moderate accuracy in predicting hurricane survival. For detailed results and analysis, please refer to the Final Report.
-
-## Contributors
-
-- Connor Park
-- Saarthak Aggarwal
-- Jon Starfeldt
-
-## License
-
-This project is open-source and available under the MIT License.
